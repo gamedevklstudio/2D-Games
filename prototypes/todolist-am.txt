@@ -1,0 +1,4 @@
+1. Create simple 2D games in Android platform.
+    a. Pacman
+    b. Tetris
+    c. Flappy Bird
