@@ -18,8 +18,8 @@ Language: C#
 ________________________________________________________________
 ________________________________________________________________
 
-3. Flappy Bird
-Game Title: Tetris
+3. 
+Game Title: Flappy Bird
 Genre: Arcade
 Type: 2D
 Platform: Android
